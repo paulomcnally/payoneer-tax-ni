@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/payoneer-tax-ni/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/payoneer-tax-ni/static/js/main.c5b7b794.chunk.js",
+    "main.js.map": "/payoneer-tax-ni/static/js/main.c5b7b794.chunk.js.map",
+    "runtime-main.js": "/payoneer-tax-ni/static/js/runtime-main.eada6c69.js",
+    "runtime-main.js.map": "/payoneer-tax-ni/static/js/runtime-main.eada6c69.js.map",
+    "static/js/2.a3f0a4c2.chunk.js": "/payoneer-tax-ni/static/js/2.a3f0a4c2.chunk.js",
+    "static/js/2.a3f0a4c2.chunk.js.map": "/payoneer-tax-ni/static/js/2.a3f0a4c2.chunk.js.map",
+    "index.html": "/payoneer-tax-ni/index.html",
+    "precache-manifest.aaa0d7dfa6e1083ea8becea8ccbea7ac.js": "/payoneer-tax-ni/precache-manifest.aaa0d7dfa6e1083ea8becea8ccbea7ac.js",
+    "service-worker.js": "/payoneer-tax-ni/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/payoneer-tax-ni/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a3f0a4c2.chunk.js.LICENSE.txt": "/payoneer-tax-ni/static/js/2.a3f0a4c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eada6c69.js",
+    "static/js/2.a3f0a4c2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c5b7b794.chunk.js"
+  ]
+}
