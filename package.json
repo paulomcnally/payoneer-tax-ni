@@ -16,7 +16,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "eslint": "./node_modules/eslint/bin/eslint.js . --ext .js --fix"
+    "eslint": "./node_modules/eslint/bin/eslint.js . --ext .js --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,6 +41,8 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.21.2",
-    "eslint-plugin-react-hooks": "^4.1.2"
-  }
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "gh-pages": "^3.1.0"
+  },
+  "homepage": "http://paulomcnally.github.io/payoneer-tax-ni"
 }
